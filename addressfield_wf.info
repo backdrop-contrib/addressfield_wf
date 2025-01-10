@@ -1,0 +1,7 @@
+type = module
+name = Addressfield Webform Component
+description = Provides an addressfield field as a webform element
+backdrop = 1.x
+
+dependencies[] = addressfield
+dependencies[] = webform 
