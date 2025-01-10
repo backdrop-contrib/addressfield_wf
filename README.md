@@ -1,6 +1,6 @@
 # Addressfield Webform Component
 
-Provides an [addressfield](https://github.com/backdrop-contrib/addressfield) component for Webform. This component was ported from the Drupal 7 module [Addressfield Tokens](https://www.drupal.org/project/addressfield_tokens), currently maintained by [amarcus](https://www.drupal.org/u/amarcus), [markie](https://www.drupal.org/u/markie) and [lambic](https://www.drupal.org/u/lambic).
+Provides an [addressfield](https://github.com/backdrop-contrib/addressfield) component for Webform. This component is a partial port of the Drupal 7 module [Addressfield Tokens](https://www.drupal.org/project/addressfield_tokens), currently maintained by [amarcus](https://www.drupal.org/u/amarcus), [markie](https://www.drupal.org/u/markie) and [lambic](https://www.drupal.org/u/lambic).
 
 ## Installation
 
